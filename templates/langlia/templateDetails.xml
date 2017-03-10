@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>langlia</name>
+	<creationDate>10 marca 2017</creationDate>
+	<author>seofuture.pl</author>
+	<authorEmail>kontakt@nipnet.pl</authorEmail>
+	<authorUrl>http://seofuture.pl</authorUrl>
+	<copyright>Copyright (C) 2017 seofuture</copyright>
+	<version>3.1.0</version>
+	<description>langlia</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>favicon.ico</filename>
+
+	
+	</files>
+
+	<positions>
+	
+		<position>menu</position>
+		<position>obszar-front</position>
+		<position>obszar</position>
+		<position>youtube</position>
+	
+		<position>footer</position>
+	</positions>
+
+
+
+	<config>
+	
+	</config>
+</extension>
