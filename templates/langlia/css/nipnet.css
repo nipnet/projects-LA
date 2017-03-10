@@ -839,6 +839,7 @@ width: 280px;
 	width:200px;
 	padding:5px 0px;
 	padding-left:10px;
+	list-style: none;
 }
 .file_menu li a {
     color:#FFFFFF; 
