@@ -848,3 +848,7 @@ width: 280px;
 .file_menu li a:hover {
     color: #F00880;
 }
+
+.carousel-control.left {
+    background-image: none !important;
+    }
